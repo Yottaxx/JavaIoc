@@ -1,2 +1,2 @@
 # Ioc
-Simple ioc container for spring learning.
+Simple Ioc container for spring learning.
